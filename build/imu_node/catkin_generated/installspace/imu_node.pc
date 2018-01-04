@@ -1,0 +1,8 @@
+prefix=/home/ada/Documents/AUVic2017/install
+
+Name: imu_node
+Description: Description of imu_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ada/Documents/AUVic2017/install/lib 
+Requires: 

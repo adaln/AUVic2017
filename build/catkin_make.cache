@@ -1,0 +1,2 @@
+imu_node
+-DCATKIN_DEVEL_PREFIX=/home/ada/Documents/AUVic2017/devel -DCMAKE_INSTALL_PREFIX=/home/ada/Documents/AUVic2017/install -G Unix Makefiles

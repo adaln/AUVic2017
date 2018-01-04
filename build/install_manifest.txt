@@ -1,0 +1,10 @@
+/home/ada/Documents/AUVic2017/install/_setup_util.py
+/home/ada/Documents/AUVic2017/install/env.sh
+/home/ada/Documents/AUVic2017/install/setup.bash
+/home/ada/Documents/AUVic2017/install/setup.sh
+/home/ada/Documents/AUVic2017/install/setup.zsh
+/home/ada/Documents/AUVic2017/install/.rosinstall
+/home/ada/Documents/AUVic2017/install/lib/pkgconfig/imu_node.pc
+/home/ada/Documents/AUVic2017/install/share/imu_node/cmake/imu_nodeConfig.cmake
+/home/ada/Documents/AUVic2017/install/share/imu_node/cmake/imu_nodeConfig-version.cmake
+/home/ada/Documents/AUVic2017/install/share/imu_node/package.xml

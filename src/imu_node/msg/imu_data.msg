@@ -1,0 +1,10 @@
+float32 q0msb
+float32 q0lsb
+float32 q1msb
+float32 q1lsb
+float32 q2msb
+float32 q2lsb
+float32 q3msb
+float32 q3lsb
+float32 tmsb
+float32 tlsb
